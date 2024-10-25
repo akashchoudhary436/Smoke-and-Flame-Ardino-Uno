@@ -1,0 +1,1 @@
+This is the project of the Smoke and Flame detection using the Cloud . Its consist the 2 code Ardino uno code and the ESP32 code. And for the Cloud the Blynk is been used. The ardino uno detect the smoke and the flame and the ESP32 connect to the wifi and send the data to the Blynk app.
